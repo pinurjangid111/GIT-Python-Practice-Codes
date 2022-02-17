@@ -1,0 +1,6 @@
+tuple=()
+print(type(tuple))
+tuple=("physics","chemistry","maths",20,30,40,50)
+print(tuple)
+print(tuple[0])
+print(tuple[1:5])
